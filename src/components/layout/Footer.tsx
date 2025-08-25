@@ -235,7 +235,7 @@ const Footer: React.FC = () => {
             <div className="flex items-center space-x-2 text-secondary-400">
               <span>© {currentYear} TechLanding. Todos os direitos reservados.</span>
               <span>•</span>
-              <span>Feito com <Heart className="w-4 h-4 text-red-500 inline" /> no Brasil</span>
+              <span>Todos os direitos reservados para Adriana Lima</span>
             </div>
 
             {/* Social Links */}

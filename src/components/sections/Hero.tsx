@@ -128,7 +128,7 @@ const Hero: React.FC = () => {
                   transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
                   className="absolute -top-4 -right-4 w-16 h-16 bg-accent-500 rounded-full flex items-center justify-center shadow-lg"
                 >
-                  <span className="text-white font-bold text-sm">⚡</span>
+                  
                 </motion.div>
                 
                 <motion.div
@@ -136,7 +136,7 @@ const Hero: React.FC = () => {
                   transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
                   className="absolute -bottom-4 -left-4 w-12 h-12 bg-primary-500 rounded-full flex items-center justify-center shadow-lg"
                 >
-                  <span className="text-white font-bold text-sm">🚀</span>
+                  
                 </motion.div>
               </div>
             </div>
