@@ -142,6 +142,6 @@ Este projeto pode ser expandido com:
 
 ---
 
-**Desenvolvido com ❤️ por [Adriana Lima]**
+**Desenvolvido por [Adriana Lima]**
 
 *Este projeto faz parte do meu portfólio pessoal e demonstra minhas habilidades em desenvolvimento web moderno.*
