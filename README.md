@@ -22,21 +22,25 @@ Este projeto foi criado como exemplo de landing page profissional para mostrar a
 
 As imagens abaixo representam as principais seções da landing page.
 
-![Hero](docs/screenshots/hero.png)
+![Home](./public/readme/home.png)
 
-*Seção inicial com apresentação da TechLanding e call-to-action principal.*
+*Página inicial com apresentação da TechLanding e call-to-action principal.*
 
-![Serviços](docs/screenshots/services.png)
+![Serviços](./public/readme/servicos.png)
 
 *Grid de serviços oferecidos pela empresa, com cards interativos e informações detalhadas.*
 
-![Tecnologias](docs/screenshots/technologies.png)
+![Tecnologias](./public/readme/tecnologia.png)
 
 *Apresentação das tecnologias utilizadas no desenvolvimento (React, Next.js, TailwindCSS, TypeScript).*
 
-![Contato](docs/screenshots/contact.png)
+![Contato](./public/readme/contato.png)
 
 *Formulário de contato integrado com validação e informações de contato da empresa.*
+
+![Footer](./public/readme/footer.png)
+
+*Rodapé com informações da empresa, links de navegação e botão para voltar ao topo.*
 
 ---
 
