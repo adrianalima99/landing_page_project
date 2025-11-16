@@ -6,9 +6,9 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'TechLanding - Soluções Tecnológicas Inovadoras',
-  description: 'Transforme seu negócio com soluções tecnológicas de ponta. Desenvolvimento, consultoria e inovação para empresas de todos os tamanhos.',
-  keywords: 'tecnologia, desenvolvimento, software, consultoria, inovação, digital',
-  authors: [{ name: 'TechLanding Team' }],
+  description: 'Transforme seu negócio com soluções tecnológicas de ponta. Desenvolvimento web, aplicações mobile, cloud solutions e consultoria TI para empresas de todos os tamanhos.',
+  keywords: 'tecnologia, desenvolvimento web, aplicações mobile, cloud solutions, consultoria TI, software, inovação, digital',
+  authors: [{ name: 'TechLanding - Soluções Tecnológicas Inovadoras' }],
 }
 
 export const viewport: Viewport = {

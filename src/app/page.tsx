@@ -2,8 +2,7 @@ import React from 'react'
 import Header from '@/components/layout/Header'
 import Hero from '@/components/sections/Hero'
 import Services from '@/components/sections/Services'
-import About from '@/components/sections/About'
-import Portfolio from '@/components/sections/Portfolio'
+import Technologies from '@/components/sections/Technologies'
 import Contact from '@/components/sections/Contact'
 import Footer from '@/components/layout/Footer'
 
@@ -13,8 +12,7 @@ export default function Home() {
       <Header />
       <Hero />
       <Services />
-      <About />
-      <Portfolio />
+      <Technologies />
       <Contact />
       <Footer />
     </main>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0284c7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c026d3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background círculo com gradiente -->
+  <circle cx="50" cy="50" r="48" fill="url(#gradient)" />
+  
+  <!-- Letra T estilizada -->
+  <path d="M 30 25 L 70 25 L 70 40 L 55 40 L 55 75 L 45 75 L 45 40 L 30 40 Z" 
+        fill="white" 
+        stroke="white" 
+        stroke-width="2"
+        stroke-linejoin="round"
+        stroke-linecap="round"/>
+  
+  <!-- Linha decorativa abaixo -->
+  <line x1="35" y1="80" x2="65" y2="80" 
+        stroke="white" 
+        stroke-width="3" 
+        stroke-linecap="round" 
+        opacity="0.8"/>
+</svg>
+
