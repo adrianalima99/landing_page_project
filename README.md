@@ -1,147 +1,189 @@
-# 🚀 TechLanding - Landing Page Tecnológica
+# TechLanding - Landing Page – Adriana Lima
 
-## 📋 Sobre o Projeto
+Landing page moderna e responsiva desenvolvida para demonstrar habilidades em desenvolvimento web frontend, apresentando uma empresa fictícia de soluções tecnológicas inovadoras.
 
-**TechLanding** é uma landing page moderna e responsiva desenvolvida para demonstrar minhas habilidades em desenvolvimento web frontend. Este projeto foi criado como parte do meu portfólio pessoal, mostrando minha capacidade de criar interfaces elegantes e funcionais.
-
-## ✨ Características Principais
-
-### 🎨 **Design & UX**
-- **Design minimalista** focado na indústria tecnológica
-- **Interface responsiva** para todos os dispositivos
-- **Animações suaves** com Framer Motion
-- **Paleta de cores moderna** e profissional
-- **Tipografia elegante** com Google Fonts
-
-### 🛠️ **Tecnologias Utilizadas**
-- **Next.js 14** com App Router
-- **TypeScript** para type safety
-- **Tailwind CSS** para estilização
-- **Framer Motion** para animações
-- **Lucide React** para ícones
-- **Componentes reutilizáveis** e bem estruturados
-
-### 📱 **Seções da Landing Page**
-- **Header** com navegação responsiva e menu mobile
-- **Hero** com call-to-action e elementos flutuantes
-- **Serviços** em grid com cards interativos
-- **Sobre** com missão, valores e timeline da empresa
-- **Portfólio** com filtros e projetos
-- **Contato** com formulário e informações
-- **Footer** com links e redes sociais
-
-## 🎯 **Objetivos do Projeto**
-
-Este projeto foi desenvolvido para:
-- Demonstrar **proficiência em React/Next.js**
-- Mostrar **habilidades em design responsivo**
-- Exibir **conhecimento em TypeScript**
-- Apresentar **capacidade de criar componentes reutilizáveis**
-- Evidenciar **entendimento de UX/UI moderno**
-
-## 🚀 **Como Executar Localmente**
-
-```bash
-# Clone o repositório
-git clone [URL_DO_SEU_REPO]
-
-# Entre na pasta
-cd landing_page_project
-
-# Instale as dependências
-npm install
-
-# Execute em modo desenvolvimento
-npm run dev
-
-# Acesse http://localhost:3000
-```
-
-## 📁 **Estrutura do Projeto**
-
-```
-src/
-├── app/                 # App Router do Next.js
-│   ├── globals.css     # Estilos globais
-│   ├── layout.tsx      # Layout principal
-│   └── page.tsx        # Página inicial
-├── components/          # Componentes reutilizáveis
-│   ├── ui/             # Componentes base (Button, Card)
-│   ├── layout/         # Header e Footer
-│   └── sections/       # Seções da página
-└── lib/                # Utilitários e helpers
-```
-
-## 🎨 **Sistema de Design**
-
-### **Cores**
-- **Primary**: Tons de azul para elementos principais
-- **Secondary**: Tons de cinza para texto e backgrounds
-- **Accent**: Tons de roxo/rosa para destaques
-
-### **Componentes**
-- **Button**: Múltiplas variantes (primary, secondary, outline, ghost)
-- **Card**: Cards com diferentes tamanhos e efeitos hover
-- **Layout**: Header responsivo com navegação e Footer completo
-
-## 📱 **Responsividade**
-
-O projeto é totalmente responsivo com breakpoints para:
-- **Mobile**: < 768px
-- **Tablet**: 768px - 1024px
-- **Desktop**: > 1024px
-
-## 🎭 **Animações**
-
-- **Entrada de elementos** com Framer Motion
-- **Hover effects** nos cards e botões
-- **Transições suaves** entre estados
-- **Animações de scroll** com `whileInView`
-
-## 🔧 **Scripts Disponíveis**
-
-```bash
-npm run dev      # Desenvolvimento local
-npm run build    # Build de produção
-npm run start    # Servidor de produção
-npm run lint     # Verificação de código
-```
-
-## 📊 **Performance**
-
-- **Lazy loading** de componentes
-- **Otimização de imagens** com Next.js
-- **Code splitting** automático
-- **Bundle size** otimizado
-
-## 🎯 **Próximos Passos**
-
-Este projeto pode ser expandido com:
-- **Blog integrado** com MDX
-- **Sistema de CMS** headless
-- **E-commerce** básico
-- **Dashboard** administrativo
-- **PWA** com service workers
-
-## 📝 **Notas de Desenvolvimento**
-
-- **Componentes modulares** para fácil manutenção
-- **TypeScript strict mode** para qualidade de código
-- **ESLint configurado** para padrões de código
-- **Tailwind configurado** com tema customizado
-- **Framer Motion** para animações profissionais
-
-## 🌟 **Destaques Técnicos**
-
-- **App Router** do Next.js 14
-- **Server Components** e Client Components
-- **CSS Modules** com Tailwind
-- **Responsive design** mobile-first
-- **Accessibility** com ARIA labels
-- **SEO** otimizado com metadados
+> Engenheira de Software apaixonada por criar experiências digitais inteligentes que conectam pessoas e tecnologia.
 
 ---
 
-**Desenvolvido por [Adriana Lima]**
+## 🟦 Visão Geral
 
-*Este projeto faz parte do meu portfólio pessoal e demonstra minhas habilidades em desenvolvimento web moderno.*
+Este projeto foi criado como exemplo de landing page profissional para mostrar aos clientes, demonstrando minhas habilidades em desenvolvimento web moderno, design responsivo e experiência do usuário.
+
+- **Objetivo**: Criar uma landing page minimalista e profissional de uma empresa fictícia de tecnologia, focada em apresentar serviços de forma clara e eficiente.
+
+- **Tipo de projeto**: Landing Page corporativa / Exemplo de portfólio.
+
+- **Público alvo**: Clientes em busca de soluções web, empresas interessadas em desenvolvimento de landing pages profissionais.
+
+---
+
+## 🟦 Screenshots
+
+As imagens abaixo representam as principais seções da landing page.
+
+![Hero](docs/screenshots/hero.png)
+
+*Seção inicial com apresentação da TechLanding e call-to-action principal.*
+
+![Serviços](docs/screenshots/services.png)
+
+*Grid de serviços oferecidos pela empresa, com cards interativos e informações detalhadas.*
+
+![Tecnologias](docs/screenshots/technologies.png)
+
+*Apresentação das tecnologias utilizadas no desenvolvimento (React, Next.js, TailwindCSS, TypeScript).*
+
+![Contato](docs/screenshots/contact.png)
+
+*Formulário de contato integrado com validação e informações de contato da empresa.*
+
+---
+
+## 🟦 Tecnologias Utilizadas
+
+- **Framework**: Next.js 14 (App Router)
+
+- **Linguagem**: TypeScript
+
+- **Estilização**: Tailwind CSS
+
+- **Animações**: Framer Motion
+
+- **Outras ferramentas**: React, Lucide React (ícones), componentes reutilizáveis.
+
+---
+
+## 🟦 Conceitos & Foco Técnico
+
+Este projeto foi pensado para refletir boas práticas de desenvolvimento moderno e experiência do usuário:
+
+- **Design Responsivo**: Interface totalmente adaptável para mobile, tablet e desktop, garantindo experiência consistente em todos os dispositivos.
+
+- **Componentização**: Cada seção (Hero, Services, Technologies, Contact) foi separada em componentes reutilizáveis dentro de `src/components/sections`, facilitando manutenção e escalabilidade.
+
+- **Performance Otimizada**: Utiliza otimizações automáticas do Next.js 14, como code splitting, lazy loading e otimização de imagens.
+
+- **Experiência do Usuário**: Design minimalista e profissional, com animações suaves, hierarquia visual clara e CTAs estratégicos para conversão.
+
+- **Acessibilidade**: Contraste adequado, elementos clicáveis bem dimensionados (touch targets de pelo menos 44x44px no mobile) e navegação intuitiva.
+
+- **SEO Otimizado**: Estrutura semântica HTML, metadados configurados e URLs amigáveis.
+
+---
+
+## 🟦 Como Executar o Projeto
+
+Para rodar o projeto localmente, siga os passos abaixo:
+
+```bash
+
+# Clonar o repositório
+
+git clone https://github.com/SEU-USUARIO/landing_page_project.git
+
+# Entrar na pasta
+
+cd landing_page_project
+
+# Instalar dependências
+
+npm install
+
+# Rodar em ambiente de desenvolvimento
+
+npm run dev
+
+```
+
+Após isso, a aplicação estará disponível em `http://localhost:3000`.
+
+### Build de Produção
+
+```bash
+
+# Gerar build de produção
+
+npm run build
+
+# Iniciar servidor de produção
+
+npm start
+
+```
+
+---
+
+## 🟦 Estrutura Simplificada do Projeto
+
+Resumo da estrutura das principais pastas:
+
+```text
+
+.
+
+├── public/                # Assets públicos
+│   └── ...
+├── src/
+│   ├── app/              # Páginas e rotas (Next.js App Router)
+│   │   ├── api/          # API routes (formulário de contato)
+│   │   ├── globals.css   # Estilos globais
+│   │   ├── layout.tsx    # Layout principal
+│   │   └── page.tsx      # Página inicial
+│   ├── components/       # Componentes reutilizáveis
+│   │   ├── layout/       # Header e Footer
+│   │   ├── sections/     # Seções da página (Hero, Services, Technologies, Contact)
+│   │   └── ui/           # Componentes base (Button, Card)
+│   └── lib/              # Utilitários e helpers
+│       └── utils.ts      # Função cn() para merge de classes Tailwind
+└── ...
+
+```
+
+---
+
+## 🟦 Funcionalidades Implementadas
+
+- ✅ **Landing Page Moderna**: Design minimalista e profissional (1 página)
+
+- ✅ **Design Responsivo**: Totalmente adaptável para desktop, tablet e mobile
+
+- ✅ **Formulário de Contato**: Integrado com API route (pronto para configurar serviço de email)
+
+- ✅ **Otimização de Performance**: Code splitting automático, lazy loading e otimização de imagens
+
+- ✅ **Animações Suaves**: Transições elegantes com Framer Motion
+
+- ✅ **SEO Otimizado**: Metadados configurados e estrutura semântica
+
+- ✅ **Deploy Ready**: Pronto para deploy na Vercel ou qualquer plataforma compatível
+
+---
+
+## 🟦 Status do Projeto
+
+- **Status**: ✅ Completo e funcional
+
+- **Próximos passos** (opcionais):
+  - Configurar serviço de email (Resend/SendGrid) para ativar envio do formulário
+  - Adicionar analytics (Google Analytics ou similar)
+  - Adicionar mais animações microinterações
+  - Implementar modo claro/escuro
+
+---
+
+## 🟦 Sobre a Desenvolvedora
+
+Sou Adriana Lima, desenvolvedora apaixonada por criar soluções digitais que realmente fazem a diferença. Com experiência em desenvolvimento front-end, design de interfaces e uma transição em andamento para a área de dados, busco unir funcionalidade, estética e inteligência em cada projeto.
+
+- **Área de atuação**: Engenharia de Software, Front-End e Dados.
+
+- **Foco**: experiências digitais intuitivas, acessíveis e visualmente agradáveis.
+
+- **Contato**: adriana.slima0899@gmail.com
+
+- **Localização**: Belém – PA, Brasil.
+
+---
+
+**Desenvolvido com Next.js 14, TypeScript e TailwindCSS.**
