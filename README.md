@@ -2,8 +2,6 @@
 
 Landing page moderna e responsiva desenvolvida para demonstrar habilidades em desenvolvimento web frontend, apresentando uma empresa fictícia de soluções tecnológicas inovadoras.
 
-> Engenheira de Software apaixonada por criar experiências digitais inteligentes que conectam pessoas e tecnologia.
-
 ---
 
 ## 🟦 Visão Geral
