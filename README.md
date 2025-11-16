@@ -1,4 +1,4 @@
-# TechLanding - Landing Page – Adriana Lima
+# TechLanding - Landing Page
 
 Landing page moderna e responsiva desenvolvida para demonstrar habilidades em desenvolvimento web frontend, apresentando uma empresa fictícia de soluções tecnológicas inovadoras.
 
